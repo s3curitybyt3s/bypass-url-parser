@@ -216,8 +216,3 @@ git tag -a vX.Y.Z "$COMMIT_HASH" -m "New release: vX.Y.Z"
 git push --tags
 # If X or Y is bumped, create new release on github
 ```
-
-## Contributors
-
-- Initial release by [@TheLaluka](https://twitter.com/TheLaluka)
-- Huge refactoring & lib-mode with thanks to [@jtop_fap](https://twitter.com/jtop_fap)
